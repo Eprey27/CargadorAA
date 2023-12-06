@@ -1,3 +1,5 @@
+# Cargador de Baterías AA con Arduino
+
 **⚠️ WARNING: Version 0.0.0-alpha ⚠️**
 
 This software version **has not been tested in a real Arduino environment**. It is strongly recommended **not to use it if you are not familiar to handling battery power supply routines**. Improper handling of batteries and electronic circuits can lead to significant risks, including but not limited to, short circuits, overheating, component damage, or even fire hazards.
@@ -12,7 +14,7 @@ Esta versión del software **no ha sido probada en un entorno real con Arduino**
 
 **Utiliza este software bajo tu propia responsabilidad y solo si comprendes y estás capacitado para manejar de manera segura los riesgos asociados con sistemas electrónicos y baterías.**
 
-# Cargador de Baterías AA con Arduino
+## Implementación
 
 Para implementar este proyecto de cargador de baterías con Arduino, proporcionaremos una guía paso a paso para construir el circuito y montar los componentes necesarios. Esta guía asume que tienes conocimientos básicos de electrónica y soldadura. Vamos a dividir el proceso en etapas claras.
 
