@@ -1,6 +1,6 @@
 **⚠️ WARNING: Version 0.0.0-alpha ⚠️**
 
-This software version **has not been tested in a real Arduino environment**. It is strongly recommended **not to use it if you are not accustomed to handling battery power supply routines**. Improper handling of batteries and electronic circuits can lead to significant risks, including but not limited to, short circuits, overheating, component damage, or even fire hazards.
+This software version **has not been tested in a real Arduino environment**. It is strongly recommended **not to use it if you are not familiar to handling battery power supply routines**. Improper handling of batteries and electronic circuits can lead to significant risks, including but not limited to, short circuits, overheating, component damage, or even fire hazards.
 
 **Use this software at your own risk and only if you understand and are capable of safely managing the risks associated with electronic systems and batteries.**
 
